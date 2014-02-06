@@ -45,6 +45,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+gem 'bootstrap-sass'
 
 group :test, :development do
   gem "rspec-rails"
